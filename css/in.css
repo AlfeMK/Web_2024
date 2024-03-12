@@ -1,0 +1,38 @@
+h1 
+{
+    font-style: normal;
+    font-size: 30;
+    color: #232323;
+    
+}
+
+p 
+{
+    color: #178871;
+}
+header,footer 
+{
+    clear:both; 
+    text-align:center;
+}
+nav 
+{
+    float:left;
+    width:20%;
+    height:150px;
+    background: lightyellow;
+}
+main 
+{
+    float:left; 
+    width:60%;
+    height:800px;
+    background: lightgray;
+}
+aside
+{
+    float:left;
+    width:20%;
+    height:150px;
+    background: lightpink;
+}     
